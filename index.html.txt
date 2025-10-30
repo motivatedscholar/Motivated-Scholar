@@ -7,7 +7,7 @@
   <meta name="description" content="Motivation, study tips, student-life improvement — MotivatedScholar (Hindi + English)">
   <meta name="keywords" content="study tips, motivation, student life, productivity, Hindi, English">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Poppins:wght@600&display=swap" rel="stylesheet">
-
+ <meta name="google-site-verification" content="googlecb63da56eeba24c2.html" />
   <style>
     :root{--bg:#ffffff;--card:#fff;--muted:#6b7280;--accent:#0b6efd;--highlight:#10b981;--maxw:1100px}
     [data-theme="dark"]{--bg:#0b1220;--card:#071022;--muted:#94a3b8;--accent:#4f8cff;--highlight:#22c55e}
@@ -186,3 +186,4 @@ Sitemap: https://username.github.io/motivatedscholar/sitemap.xml</pre>
   </script>
 </body>
 </html>
+
